@@ -1,1 +1,1 @@
-# SSE 流式消息推送应用Demo
+# Java 那些好玩的 Demo
